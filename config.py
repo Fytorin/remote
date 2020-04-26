@@ -2,13 +2,13 @@
 # TG_TOKEN = "1113722810:AAHxQ1pGOFV64U5UWXdP9LfdE5_izPDiSSc"
 
 # easy
-# TG_TOKEN = "1040271615:AAEroJhhyr-kzZydIqX068q1z8d56eQyLRA"
+TG_TOKEN = "1040271615:AAEroJhhyr-kzZydIqX068q1z8d56eQyLRA"
 
 # reverse btc bot
 # TG_TOKEN = "1195172273:AAHiy9D732rZo2q1svMMc447HVhSrhWtiEE"
 
 # main bot
-TG_TOKEN = "1270909623:AAHIqSt5JXEWoYhDLkzeQ0IzJIlwm6vsCx0"
+# TG_TOKEN = "1270909623:AAHIqSt5JXEWoYhDLkzeQ0IzJIlwm6vsCx0"
 
 
 ref_link = "https://telegram.me/reverseBTC\_bot?start={}"
